@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 5785c4303aab5c14fa407cae444821ac
+timeCreated: 1497440768
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bird_Sprite_02_0_0
+    21300002: Bird_Sprite_02_0_1
+    21300004: Bird_Sprite_02_0_2
+    21300006: Bird_Sprite_02_0_3
+    21300008: Bird_Sprite_02_0_4
+    21300010: Bird_Sprite_02_0_5
+    21300012: Bird_Sprite_02_0_6
+    21300014: Bird_Sprite_02_0_7
+    21300016: Bird_Sprite_02_0_8
+    21300018: Bird_Sprite_02_0_9
+    21300020: Bird_Sprite_02_0_10
+    21300022: Bird_Sprite_02_0_11
+    21300024: Bird_Sprite_02_0_12
+    21300026: Bird_Sprite_02_0_13
+    21300028: Bird_Sprite_02_0_14
+    21300030: Bird_Sprite_02_0_15
+    21300032: Bird_Sprite_02_0_16
+    21300034: Bird_Sprite_02_0_17
+    21300036: Bird_Sprite_02_0_18
+    21300038: Bird_Sprite_02_0_19
+    21300040: Bird_Sprite_02_0_20
+    21300042: Bird_Sprite_02_0_21
+    21300044: Bird_Sprite_02_0_22
+    21300046: Bird_Sprite_02_0_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 306
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 306
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4881261, y: 0.48572126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 303
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 309
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 307
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 217
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 207
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 207
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 215
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 216
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 115
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 104
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 114
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 112
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Sprite_02_0_23
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
