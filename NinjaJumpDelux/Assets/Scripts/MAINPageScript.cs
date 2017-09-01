@@ -11,6 +11,6 @@ public class MAINPageScript : MonoBehaviour {
 	}
 	public void Play(){
 		//MyConstant.gamePlay = true;
-		SceneManager.LoadScene (1); 
+		//SceneManager.LoadScene (1); 
 	}
 }
